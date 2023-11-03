@@ -1,6 +1,6 @@
 # SPOT: Cloud Cost Optimizer
 The only spot for all your cloud needs.
-## Topic: ML Modeling: COVID-19 Hospital Capabilities
+## View the repo here: https://github.com/rituraj8503
 
 Group project by:
 - Rituraj Sohoni: https://github.com/rituraj8503
